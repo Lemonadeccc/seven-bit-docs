@@ -8,7 +8,7 @@ import dataDisplay from './utils/dataDisplay.js';
 import router from './utils/router.js';
 
 module.exports = {
-  base: "/",
+  base: "/Lemonadeccc/",
   title: 'Seven-Bit-UI',
   lastUpdated: true,
   cleanUrls: true,
